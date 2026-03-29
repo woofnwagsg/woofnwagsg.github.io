@@ -477,14 +477,6 @@ img {
   margin: 0;
 }
 
-/* Paw Motif Decoration */
-.paw-motif {
-  width: 32px;
-  height: 32px;
-  color: var(--c-border);
-  margin-top: 3rem;
-  opacity: 0.5;
-}
 
 /* Contact Section */
 .text-white-muted {
